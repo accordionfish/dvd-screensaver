@@ -8,6 +8,7 @@ img, div {
   height: 100px;
 }
 img {
+  position:absolute;
   filter:invert(1);
 }
 
